@@ -1,7 +1,7 @@
 # Sales-Customer-Performance-Dashboards
 
 ### Executive Summary
-Using Tableau, Using Sales and Customers dataset i built two interactive dashboards to track and analyze sales and customer performance. The **Sales Dashboard** presents metrics such as total sales, profit, and quantity; highlights monthly performance; and compares product subcategory performance. The **Customers Dashboard** focuses on customer-level insights: number of customers, average sales per customer, order distributions, and the top 10 most profitable customers.
+Using Tableau, with Sales and Customers dataset i built two interactive dashboards to track and analyze sales and customer performance. The **Sales Dashboard** presents metrics such as total sales, profit, and quantity; highlights monthly performance; and compares product subcategory performance. The **Customers Dashboard** focuses on customer-level insights: number of customers, average sales per customer, order distributions, and the top 10 most profitable customers.
 
 ### Business Problem
 Organizations often lack visibility into how sales and customers evolve over time.
