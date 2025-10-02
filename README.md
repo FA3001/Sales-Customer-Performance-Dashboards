@@ -32,10 +32,24 @@ This project addresses these gaps by combining sales and customer analytics into
    - Implement filters
 
 ### Sales Dashboard
+   - KPI Overview: Total sales, profits, and quantities with YoY comparisons.
+   
+   - Sales Trends: Monthly performance with peak/valley identification.
+   
+   - Product Analysis: Subcategory performance with profit margins.
+   
+   - Weekly Tracking: Sales and profit trends with average benchmarks.
+     
 ![Sales Dashboard](/Images/Sales_Dashboard.png)
 
 
-### Sales Customers Dashboard
+### Customers Dashboard
+   - Customer Metrics: Total customers, sales per customer, and order volumes.
+
+   - Behavior Analysis: Customer distribution by order frequency.
+   
+   - Top 10 Customers: Highest profit-generating customers with detailed profiles.
+        
 ![Sales Customers Dashboard](/Images/Customers_Dashboard.png)
 
 
